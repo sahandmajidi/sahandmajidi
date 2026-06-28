@@ -28,7 +28,7 @@ Besides .NET, I have experience with **Python** and **C**, though I don't use th
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahandmajidi&show_icons=true&theme=default)
 
 ## Get in touch
 
