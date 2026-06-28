@@ -1,24 +1,22 @@
-# Hey there 👋
+# 👋 Hi, I'm Sahand
 
-I'm a software engineer focused on building practical systems with .NET. I spend most of my time analyzing requirements, designing solutions, and writing code that actually solves problems.
-
-Currently working at Zhero, where I turn business processes into working software.
+Software engineer focused on building practical systems with .NET. I analyze requirements, design solutions, and write code that actually works.
 
 ## What I do
 
-I work mainly with **ASP.NET** and **.NET Core** using **C#**. My background is in systems analysis and design—I take messy, paper-based workflows and turn them into clean, functional applications.
+I specialize in **ASP.NET** and **.NET Core** using **C#**. My strength is taking messy, paper-based business processes and turning them into clean, functional applications.
 
-I also build web projects using **.NET Core Razor Pages** and occasionally **WordPress** when it makes sense for the project. On the side, I work on startup projects and handle both the technical architecture and implementation.
+I work with **.NET Core Razor Pages** for web projects and sometimes **WordPress** when it fits. I also enjoy tackling startup projects end-to-end—architecture through deployment.
 
-Besides .NET, I have experience with **Python** and **C**, though I don't use them as much these days.
+Beyond .NET, I have experience with **Python** and **C**.
 
 ## Background
 
-- MS in Computer Engineering (Software), started in 2017
-- Professional development experience since 2021
-- Currently balancing full-time work with grad school
+- MS Computer Engineering (Software) — since 2017
+- Professional developer since 2021
+- Currently at [Jiro](https://Jiro.ir)
 
-## Tech I use
+## Tech
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
