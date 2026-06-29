@@ -24,11 +24,8 @@ Beyond .NET, I have experience with **Python** and **C**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahandmajidi&show_icons=true&theme=default)
 
 ## Get in touch
 
-- LinkedIn: https://ir.linkedin.com/in/sahand-majidi-081097181
+- LinkedIn: https://linkedin.com/in/sahand-majidi-081097181
 - Email: sahandm.ce@gmail.com
