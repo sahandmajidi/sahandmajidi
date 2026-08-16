@@ -27,5 +27,5 @@ Beyond .NET, I have experience with **Python** and **C**.
 
 ## Get in touch
 
-- LinkedIn: https://linkedin.com/in/sahand-majidi-081097181
+- LinkedIn: https://linkedin.com/in/sahandmajidi
 - Email: sahandm.ce@gmail.com
